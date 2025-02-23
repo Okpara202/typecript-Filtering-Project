@@ -20,7 +20,7 @@ This project is a TypeScript-based application designed to filter and log user a
 
 - **TypeScript Interfaces**: Defines clear structures for `User` and `Admin` objects.
 - **Union Type**: Uses a union type `Person` to handle both `User` and `Admin`.
-- **Filtering Function**: Provides a flexible `filterPersons` function to filter users and admins based on type and criteria.
+- **Filtering Function**: Provides a flexible `filterPersons` function to filter users and admins based on `criteria`.
 - **Logging Function**: Includes a `logPerson` function to log the details of users and admins.
 - **Data Array**: Contains sample data for testing and demonstration purposes.
 
@@ -74,12 +74,12 @@ The source code file for this project is located in main.ts under the src folder
 1. Clone this repo
 
 ```bash
-git clone
+git clone https://github.com/Okpara202/typecript-Filtering-Project.git
 ```
 
 2. Navigate to src folder, under it is main.ts and there you will see the source code
 
-3. Open you IDE terminal and run
+3. Open your IDE terminal and run
 
 ```bash
 npm run dev
