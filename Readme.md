@@ -1,4 +1,4 @@
-# **Person Filter Project**
+# **Typescript Filtering Project**
 
 ---
 
@@ -7,6 +7,14 @@
 This project is a TypeScript-based application designed to filter and log user and admin data based on specific criteria. The application defines `User` and `Admin` interfaces, and a `filterPersons` function that can filter users or admins based on their given criteria. It also includes a function to log the details of the filtered persons. This task is aimed at helping me get a better grasp on typescript basics to better understand its differences and similarities with Javascript
 
 ---
+
+## **Table of Contents**
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Task](#task)
+4. [What I did](#what-i-did)
+5. [Code Implementation](#code-implementation)
 
 ## **Features**
 
